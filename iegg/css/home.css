@@ -1,0 +1,19 @@
+.sidenav_custom{
+    background-color: #F4B52C;
+}
+.nav-link{
+    margin-left: 10%;
+    margin-bottom: 5%;
+    color: #aa7b16;
+}
+.nav-link:hover{
+    color: white;
+    font-size: 20px;
+}
+.selected{
+    color: white;
+}
+
+.navbar_custom{
+    background-color: #F4B52C;
+}
